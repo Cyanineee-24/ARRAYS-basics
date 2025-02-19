@@ -1,5 +1,5 @@
 #include<stdio.h>
-//matrix diagonal sum
+//matrix diagonal sum1
 
 int matrixSum( int rows, int columns,int arr [rows] [columns]);
 void createArr( int rows, int columns, int arr [rows] [columns]);
